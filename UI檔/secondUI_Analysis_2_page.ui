@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Ui_Page4</class>
+ <widget class="QWidget" name="Ui_Page4">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1280</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/顯示/XD檔/第二版20210727/介面模板/No icon 分析 顯示 更新版.png);</string>
+  </property>
+  <widget class="QPushButton" name="home_btn_4">
+   <property name="geometry">
+    <rect>
+     <x>1063</x>
+     <y>44</y>
+     <width>50</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton
+{
+background-color:transparent;
+border-image: url(:/轉換檔案/XD檔/第二版20210727/元件/home.png);
+background:none;
+border:none;
+background-repeat:none;
+}
+QPushButton:pressed
+{
+	border-image: url(:/轉換檔案/XD檔/第二版20210727/元件/home顏色.png);
+}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Exit_btn_4">
+   <property name="geometry">
+    <rect>
+     <x>1170</x>
+     <y>44</y>
+     <width>50</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton
+{
+background-color:transparent;
+border-image:url(:/首頁/XD檔/第二版20210727/元件/exit.png);
+background:none;
+border:none;
+background-repeat:none;
+}
+QPushButton:pressed
+{
+	border-image:url(:/首頁/XD檔/第二版20210727/元件/Exit顏色.png)
+}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="back_btn_4">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>44</y>
+     <width>50</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton
+{
+background-color:transparent;
+border-image:url(:/顯示/XD檔/第二版20210727/元件/返回.png);
+background:none;
+border:none;
+background-repeat:none;
+}
+QPushButton:pressed
+{
+	border-image:url(:/顯示/XD檔/第二版20210727/元件/返回_顏色.png);
+}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Allnum_lab_4">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>290</y>
+     <width>171</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/顯示/XD檔/第二版20210727/元件/组 61.png);</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="scaledContents">
+    <bool>false</bool>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="name_lab_4">
+   <property name="geometry">
+    <rect>
+     <x>630</x>
+     <y>250</y>
+     <width>171</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Time_lab_4">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>250</y>
+     <width>181</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="Sigle_lab_4">
+   <property name="geometry">
+    <rect>
+     <x>1020</x>
+     <y>250</y>
+     <width>181</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QWidget" name="plotly_page4_Ui" native="true">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>490</y>
+     <width>1121</width>
+     <height>261</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/顯示/XD檔/第二版20210727/元件/组 61.png);</string>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="XD_2.qrc"/>
+ </resources>
+ <connections/>
+</ui>

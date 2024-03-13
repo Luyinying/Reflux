@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Ui_show_picture</class>
+ <widget class="QWidget" name="Ui_show_picture">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1280</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/顯示圖片/XD檔/第二版20210727/介面模板/NO icon顯示圖檔.png);</string>
+  </property>
+  <widget class="QPushButton" name="OK_btn">
+   <property name="geometry">
+    <rect>
+     <x>546</x>
+     <y>444</y>
+     <width>189</width>
+     <height>69</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton
+{
+background-color:transparent;
+border-image: url(:/顯示圖片/XD檔/第二版20210727/元件/OK.png);
+background:none;
+border:none;
+background-repeat:none;
+}
+QPushButton:pressed
+{
+	border-image: url(:/顯示圖片/XD檔/第二版20210727/元件/OK_G.png);
+}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="home_btn_5">
+   <property name="geometry">
+    <rect>
+     <x>1063</x>
+     <y>44</y>
+     <width>60</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton
+{
+background-color:transparent;
+border-image: url(:/轉換檔案/XD檔/第二版20210727/元件/home.png);
+background:none;
+border:none;
+background-repeat:none;
+}
+QPushButton:pressed
+{
+	border-image: url(:/轉換檔案/XD檔/第二版20210727/元件/home顏色.png);
+}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="exit_btn_5">
+   <property name="geometry">
+    <rect>
+     <x>1170</x>
+     <y>44</y>
+     <width>60</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton
+{
+background-color:transparent;
+border-image:url(:/首頁/XD檔/第二版20210727/元件/exit.png);
+background:none;
+border:none;
+background-repeat:none;
+}
+QPushButton:pressed
+{
+	border-image:url(:/首頁/XD檔/第二版20210727/元件/Exit顏色.png)
+}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="XD_2.qrc"/>
+ </resources>
+ <connections/>
+</ui>
