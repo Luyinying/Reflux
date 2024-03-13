@@ -1,0 +1,118 @@
+absl-py @ file:///C:/ci/absl-py_1623867338309/work
+aiohttp @ file:///C:/ci/aiohttp_1614361133907/work
+altgraph==0.17.2
+astor==0.8.1
+astunparse==1.6.3
+async-timeout==3.0.1
+attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+Authlib==0.15.4
+blinker==1.4
+Brotli @ file:///C:/ci/brotli-split_1602517705222/work
+brotlipy==0.7.0
+cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
+certifi==2021.10.8
+cffi @ file:///C:/ci/cffi_1625831764494/work
+chardet @ file:///C:/ci/chardet_1605303259695/work
+chart-studio==1.1.0
+click @ file:///tmp/build/80754af9/click_1621604852318/work
+colorama==0.4.4
+coverage @ file:///C:/ci/coverage_1614614910274/work
+cryptography @ file:///C:/ci/cryptography_1616769432139/work
+cycler==0.10.0
+Cython @ file:///C:/ci/cython_1626257059178/work
+dash==1.21.0
+dash-core-components==1.17.1
+dash-html-components==1.1.4
+dash-renderer==1.1.2
+dash-table==4.12.0
+decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
+et-xmlfile==1.1.0
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+Flask-Compress @ file:///tmp/build/80754af9/flask-compress_1623922802283/work
+future==0.18.2
+gast==0.3.3
+google-auth @ file:///tmp/build/80754af9/google-auth_1626320605116/work
+google-auth-oauthlib @ file:///tmp/build/80754af9/google-auth-oauthlib_1617120569401/work
+google-pasta==0.2.0
+grpcio @ file:///C:/ci/grpcio_1614884419385/work
+h5py==2.10.0
+idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1617877486026/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+jdcal==1.4.1
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1624781299557/work
+joblib==1.0.1
+jsonschema==3.0.2
+jupyter-core @ file:///C:/ci/jupyter_core_1636537209059/work
+Keras @ file:///tmp/build/80754af9/keras_split_1593112142734/work
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver==1.3.1
+Markdown @ file:///C:/ci/markdown_1614364005059/work
+MarkupSafe @ file:///C:/ci/markupsafe_1621528383308/work
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+multidict @ file:///C:/ci/multidict_1607367865052/work
+nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603468620949/work
+oauthlib @ file:///tmp/build/80754af9/oauthlib_1623060228408/work
+openpyxl @ file:///tmp/build/80754af9/openpyxl_1615411699337/work
+opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
+pandas @ file:///C:/ci/pandas_1618365631664/work
+pefile==2021.9.3
+Pillow==8.3.1
+plotly==5.4.0
+protobuf==3.14.0
+psutil==5.8.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyinstaller==4.7
+pyinstaller-hooks-contrib==2021.4
+PyJWT @ file:///C:/ci/pyjwt_1619651810943/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing==2.4.7
+PyQt5==5.15.4
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+PyQtWebEngine==5.15.4
+PyQtWebEngine-Qt5==5.15.2
+pyreadline==2.1
+pyrsistent @ file:///C:/ci/pyrsistent_1636093257833/work
+PySocks @ file:///C:/ci/pysocks_1594394709107/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dotenv==0.19.0
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+pywin32==300
+pywin32-ctypes==0.2.0
+PyYAML==5.4.1
+qt5-applications==5.15.2.2.2
+qt5-tools==5.15.2.1.0.1
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+requests-oauthlib==1.3.0
+retrying==1.3.3
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+salesforce==0.0.1
+scikit-learn==0.24.2
+scipy @ file:///C:/ci/scipy_1616703425152/work
+simple-salesforce==1.11.3
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sklearn==0.0
+tenacity==8.0.1
+tensorboard @ file:///home/builder/ktietz/aggregate/tensorflow_recipes/ci_te/tensorboard_1614593728657/work/tmp_pip_dir
+tensorboard-plugin-wit==1.6.0
+tensorflow==2.3.0
+tensorflow-estimator @ file:///home/builder/ktietz/aggregate/tensorflow_recipes/ci_baze37/tensorflow-estimator_1622026529081/work/tensorflow_estimator-2.5.0-py2.py3-none-any.whl
+termcolor==1.1.0
+threadpoolctl==2.2.0
+traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1624965014186/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1625084269274/work
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306165655/work
+wincertstore==0.2
+wrapt==1.12.1
+yarl @ file:///C:/ci/yarl_1606940114600/work
+zipp @ file:///tmp/build/80754af9/zipp_1625570634446/work
